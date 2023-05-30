@@ -3,11 +3,13 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Excel] (#excel)
+- ([Excel] (#excel))
 - [SQL] (#sql)
 - [Python] (#python)
 - [Tableau] (#tableau)
-- [Power BI] (#power-bi)
+- [Power BI] [#power-bi]
+[free] (https://github.com/sgreenley)
+
 
 
 # Excel
