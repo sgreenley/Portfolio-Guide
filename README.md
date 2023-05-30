@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Excel
 | Project Link | Area | Project Description |
 |---|---|---|
-|🎈 link | Excel |i found out a lot about formyulas and many things that can happen with excel |
+|🎈 [Fleet Project](https://github.com/sgreenley/Excel-Fleet-project-) | Excel |i found out a lot about formyulas and many things that can happen with excel |
 
 ***
 
