@@ -23,6 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+|sdd | sdfsf| sdf |
 | 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Marketing, product and campaign analysis | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | 
 
 ***
