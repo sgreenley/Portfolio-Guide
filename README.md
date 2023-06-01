@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-|sdd | sdfsf| sdf |
+| 🏔 [SQL fundamentals ](https://github.com/sgreenley/SQL-fundamentals) | SQL fundamentals | General manager for the Sydney area at Airbnb. Your job is to build out and launch Airbnb in Sydney, Australia. We'll be analyzing real data from the different listings that we've onboarded so far, occupancy rates, and making decisions on how to grow the platform in the city. |
 | 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Marketing, product and campaign analysis | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | 
 
 ***
