@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description |
 |---|---|---|
 |🎈 [Fleet Project](https://github.com/sgreenley/Excel-Fleet-project-) | Excel | I cleaned a data set using different methods.  then used the cleaned data to create a simple anaylsis and create three piviot tables |
-| 🚲 [NY Citi Bikes](https://github.com/sgreenley/google-sheets-NY-citi-bike) | Excel, Tableau | Used The NY Citi Bike in a full Business Analysis: Cleaning , Descriptive and Exploratory analysis, data visualization and storytelling. |
+| 🚲 [NY Citi Bikes](https://github.com/sgreenley/google-sheets-NY-citi-bike) | Excel, Pivot Table and Charts | Used The NY Citi Bike in a full Business Analysis: Cleaning , Descriptive and Exploratory analysis, data visualization and storytelling. |
 
 ***
 
