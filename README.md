@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | This repo contains the solution to the stated problem.  | - | 
+| 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | This repo contains the projects and thier solution to the stated business problems.  | - | 
 ***
 
 # Tableau
@@ -47,4 +47,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
-| [future link]() | Description of project | [link]()|
+| [future link]() | This repo contains the projects and thier solution to the stated business problems | [link]()|
