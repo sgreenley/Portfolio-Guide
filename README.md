@@ -50,4 +50,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
-| [future link]() | This repo contains the projects and thier solution to the stated business problems | [link]()|
+| [future link]() |  -------- The project is in its initial phases -------- | [link]()|
