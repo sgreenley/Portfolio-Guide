@@ -33,7 +33,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 💯 []() | Spyder IDE, Python | Learn Python the hard way by solving Python problems ranging from easy to advanced! |
-| 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | This repo contains the projects and thier solution to the stated business problems.  | - | 
+| 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | --------- We are currently in the early stages of this project. --------- | - | 
 ***
 
 # Tableau
@@ -50,4 +50,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
-| [future link]() |  -------- The project is in its initial phases -------- | [link]()|
+| [future link]()  |  ---------------- The project is in its initial phases ----------------   | [link]()|
