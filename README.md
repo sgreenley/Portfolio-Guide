@@ -1,4 +1,4 @@
-# 📡 Stuart's Portfolio
+># 📡 Stuart's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
@@ -41,6 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Project Link |
 |---|---|---|
 |🛒 [Superstore Pattern of Losses](https://public.tableau.com/app/profile/stuart.greenley/viz/SuperStorePatternofLosses_16787787075880/PatternofLossses) | *UC Davis Final Project* - appled design elements from design checklist. Met the goals of the stakeholder’s and completed design to meet the needs of the audience. Applied the cognitive and visual design concepts learned throughout this Specialization and create a visualization or data story | [link](https://public.tableau.com/app/profile/stuart.greenley/viz/SuperStorePatternofLosses_16787787075880/PatternofLossses) |
+| 🚙 [Minnesota Traffic Dashboard](https://public.tableau.com/app/profile/stuart.greenley/viz/MinnesotaTrafficVolumeDashboard_16877464774920/MDoTDashboard) | [Google Business Intelligence Project](https://github.com/sgreenley/Tableau---Minnesota-Traffic-) Create a dashboard for the Minnesota Department of Transportation that include charts for Traffic by different timelines, weather conditions and holiday. |
 | 📊 [Seattle AirBnB](https://public.tableau.com/app/profile/stuart.greenley/viz/SeattleAirBnBProject_16774628244980/SeattleAirBNBDashboard) |  An Alex the Anaylsit project, to learn the UI of tableau as well as how to effectively create visualizations and dashboards. | [Link](https://public.tableau.com/app/profile/stuart.greenley/viz/SeattleAirBnBProject_16774628244980/SeattleAirBNBDashboard) |
 | 👩‍🚀[Canada Space Future](https://public.tableau.com/app/profile/stuart.greenley/viz/CanadianSpaceEconomy/Story1) | Cleaned and transformed data on Spacewalks of all nations. Visualised key insights using Tableau, including no launches from Canada MAP, number of launches per year, private vs state launches and launch cost anyalsis. | [link](https://public.tableau.com/app/profile/stuart.greenley/viz/CanadianSpaceEconomy/Story1)|
 
