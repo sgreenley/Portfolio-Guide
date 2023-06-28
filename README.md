@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🌌 [DSL Data Analysis]() | Data Analysis with Python. Guided Projects where questions are given and then solved with Python. All projects are used in the Jupyter Notebook. | Pandas |  
+| 🌌 [DSL Data Analysis]() | Jupyter Note book , Python |  Data Analysis with Python. Guided Projects where questions are given and then solved with Python. All projects are used in the Jupyter Notebook. | Pandas |  
 | 💯 [100 Project]() | Spyder IDE, Python | Learn Python the hard way by solving Python problems ranging from easy to advanced! | - |
 | 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | --------- We are currently in the early stages of this project. --------- | - | 
 ***
