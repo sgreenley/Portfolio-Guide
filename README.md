@@ -35,7 +35,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🌌 [DSL Data Analysis](https://github.com/sgreenley/Python-DSL) | Jupyter Note book , Python |  Data Analysis with Python. **8 Guided Projects** where questions are given and then solved with Python. All projects are used in the Jupyter Notebook. | Pandas |  
 | 👩‍🚒 [Python Pandas](https://github.com/sgreenley/Python-2023-Pandas-R-Mulla) | Pandas, Python  | The basics of how to use pandas in Python for data science in 2023 guided project by Rob Mulla. | Pandas |
 | 💯 [100 Project]() | Spyder IDE, Python | Learn Python the hard way by solving Python problems ranging from easy to advanced! | - |
-| 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | --------- We are currently in the early stages of this project. --------- | - | 
+<!-- | 👩🏻‍💻 [Future Link ](https://github.com/sgreenley/sgreenley) | Programming | --------- We are currently in the early stages of this project. --------- | - | -->
 ***
 
 # Tableau
